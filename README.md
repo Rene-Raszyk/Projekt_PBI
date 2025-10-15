@@ -8,7 +8,7 @@ Tento projekt vizualizuje statistiky české hokejové Extraligy. Cílem je pře
 ### Hlavní stránka
 - **<span style="color: blue;">Název projektu</span>** – nahoře uprostřed.
 - **Logo** – umístěno pod navigačními tlačítky.
-- ![red](https://img.shields.io/badge/Název-red)**4 navigační tlačítka** – umožňují přepínání na stránky jednotlivých týmů.
+- ![red](https://img.shields.io/badge/-red)**4 navigační tlačítka** – umožňují přepínání na stránky jednotlivých týmů.
 - **3 tlačítka pro grafy** – mění hlavní zobrazené grafy.
 
 ### Stránky jednotlivých týmů (4 stránky)
