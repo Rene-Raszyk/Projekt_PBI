@@ -11,7 +11,7 @@ Tento projekt vizualizuje statistiky české hokejové Extraligy. Cílem je pře
 - ***4 navigační tlačítka*** – umožňují přepínání na stránky jednotlivých týmů.
 - ***3 tlačítka pro grafy*** – mění grafy na stránce.
 
-![alt text](image/HL_stranka.png)
+![Homepage](image/HL_stranka.png)
 
 ### Stránky jednotlivých týmů (4 stránky)
 - ***Název týmu***
@@ -23,7 +23,7 @@ Tento projekt vizualizuje statistiky české hokejové Extraligy. Cílem je pře
   - ***Levý graf*** – podrobné statistiky vybrané kategorie.
   - ***Pravý graf*** – umístění týmu v dané kategorii.
 
-![alt text](image/VD_stranka.png)
+![page](image/VD_stranka.png)
 
 ## Autor
 - **Jméno:** Rene Raszyk
