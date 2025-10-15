@@ -6,33 +6,25 @@ Tento projekt vizualizuje statistiky české hokejové Extraligy. Cílem je pře
 ## Struktura projektu
 
 ### Hlavní stránka
-- **<span style="color: blue;">Název projektu</span>** – nahoře uprostřed.
-- **Logo** – umístěno pod navigačními tlačítky.
-- ![red](https://img.shields.io/badge/-red)**4 navigační tlačítka** – umožňují přepínání na stránky jednotlivých týmů.
-- **3 tlačítka pro grafy** – mění hlavní zobrazené grafy.
+- ***Název projektu***
+- ***Logo***
+- ***4 navigační tlačítka*** – umožňují přepínání na stránky jednotlivých týmů.
+- ***3 tlačítka pro grafy*** – mění grafy na stránce.
+
+![alt text](image/HL_stranka.png)
 
 ### Stránky jednotlivých týmů (4 stránky)
-Každá stránka obsahuje:
-- **Název týmu** – nahoře.
-- **Logo týmu** – pod názvem uprostřed.
+- ***Název týmu***
+- ***Logo týmu***
 - **Tlačítka pro přepínání grafů**:
-  - **Hlavní tlačítka (3 ks)** – mění kategorii statistik.
-  - **Vedlejší tlačítka (9 ks, vždy se zobrazují 3)** – mění konkrétní grafy dle vybraného hlavního tlačítka.
+  - ***3 hlavní tlačítka*** – mění kategorii statistik.
+  - ***9 Vedlejších tlačítek*** –viditelné pouze 3 podle toho jaké hlavní tlačítko je stiknuté.
 - **Grafy**:
-  - **Levý graf** – podrobné statistiky vybrané kategorie.
-  - **Pravý graf** – umístění týmu v dané kategorii.
+  - ***Levý graf*** – podrobné statistiky vybrané kategorie.
+  - ***Pravý graf*** – umístění týmu v dané kategorii.
 
-## Funkce
-- Interaktivní přepínání mezi týmy a kategoriemi.
-- Dynamické grafy umožňující detailní analýzu statistik.
-- Přehledná vizualizace postavení týmu v jednotlivých kategoriích.
+![alt text](image/VD_stranka.png)
 
 ## Autor
-- **Jméno:** [Tvoje jméno]
-- **E-mail:** [Tvůj e-mail]
-- **LinkedIn / GitHub:** [Odkaz na tvůj profil]
-- **Datum vytvoření:** [Datum vytvoření projektu]
-
-## Poznámky
-- Projekt je vytvořen v Power BI Desktop.
-- Data jsou aktualizovatelná dle sezónních statistik Extraligy.
+- **Jméno:** Rene Raszyk
+- **E-mail:** 2004reno2004@gmail.com
