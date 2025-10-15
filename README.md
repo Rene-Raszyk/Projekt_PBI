@@ -6,10 +6,10 @@ Tento projekt vizualizuje statistiky české hokejové Extraligy. Cílem je pře
 ## Struktura projektu
 
 ### Hlavní stránka
-- **Název projektu** – nahoře uprostřed.
-- **Navigační tlačítka (4 ks)** – umožňují přepínání na stránky jednotlivých týmů.
+- **<span style="color: blue;">Název projektu</span>** – nahoře uprostřed.
 - **Logo** – umístěno pod navigačními tlačítky.
-- **Tlačítka pro grafy (3 ks)** – mění hlavní zobrazené grafy.
+- **4 navigační tlačítka** – umožňují přepínání na stránky jednotlivých týmů.
+- **3 tlačítka pro grafy** – mění hlavní zobrazené grafy.
 
 ### Stránky jednotlivých týmů (4 stránky)
 Každá stránka obsahuje:
